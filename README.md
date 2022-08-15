@@ -1,8 +1,7 @@
 # Twitter Clone 
 
 ## 🤔 About the project
-Twitter clone is a copy of Twitter user page
-
+Twitter clone is a web project I built using React Js, Styled Components and Typescript. It consists of a clone of the Twitter user screen, where the user's public information and appropriate publications are displayed. The project is fully responsive, that is, it adjusts to all screens.
 ---
 
 ## 🧪 Technologies used
